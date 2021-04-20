@@ -64,7 +64,10 @@ const styles = StyleSheet.create({
   buttonText: {
     color: colors.white,
     fontSize: 24
-  }
+  },
+  
+
+
 
 
 })
