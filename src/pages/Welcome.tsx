@@ -4,12 +4,14 @@ import colors from '../../styles/colors';
 
 import wateringImg from '../assets/watering.png';
 
+
+
 export function Welcome() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>
-        Gerencie {'\n'} 
-        suas plantas {'\n'} 
+        Gerencie {'\n'}
+        suas plantas {'\n'}
         de forma fácil
       </Text>
 
